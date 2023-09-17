@@ -3,8 +3,8 @@ NEMU is research aims to design and improve Visual Programming Environment as Le
 
 
 Try it on:
-- [NEMU - Visual Programming Environment](http://nemu-vpe.herokuapp.com)
-- [NEMU - Gamified with DOMJudge](https://nemu-domjudge.herokuapp.com)
+- [NEMU - Visual Programming Environment](https://nemu-vpe.vercel.app)
+- [~~NEMU - Gamified with DOMJudge~~](https://nemu-domjudge.herokuapp.com) (No longer active)
 
 
 NEMU research paper has been published in ICIET 2019, Proceedings of the 2019 7th International Conference on Information and Education Technology (pages 54-61), Aizu-Wakamatsu, Japan, by ACM Digital Library.
@@ -12,5 +12,6 @@ NEMU research paper has been published in ICIET 2019, Proceedings of the 2019 7t
 https://dl.acm.org/citation.cfm?id=3323788
 
 
-#### Work in Progress 👨🏼‍💻
-Need some time to remove secret keys and credentials from the previous repo. I will publish it once it is done. 
+#### Co-authored 👨🏼‍💻
+- Almas Amalia Azhar - [almasaml](https://github.com/almasaml)
+

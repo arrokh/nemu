@@ -1,0 +1,9 @@
+body {
+    display: block;
+    margin: 0;
+    background-image: url("/images/background.png");
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
