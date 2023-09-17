@@ -10,10 +10,11 @@ Try it on:
 
 NEMU research paper has been published in ICIET 2019, Proceedings of the 2019 7th International Conference on Information and Education Technology (pages 54-61), Aizu-Wakamatsu, Japan, by ACM Digital Library.
 
-![nemu-vpe vercel app_](https://github.com/arrokh/nemu/assets/3750495/1c54a8fa-6aeb-4c27-8d53-3730b472b83b)
+<div align="center">
+  <img width="700" alt="NEMU - Visual Programming Environment" src="https://github.com/arrokh/nemu/assets/3750495/6635d936-c052-4640-bc7a-4e8b5374c42c">
+</div>
 
-
-## Research Related
+## Related researchs
 - N. O. Anwar, H. Okumura, T. Widiyaningtyas and U. Pujianto, "Nemu: Design and improvement of visual programming environment as learning support system on basic programming subjects", Proceedings of the 2019 7th International Conference on Information and Education Technology, pp. 54-61, 2019. [Link](https://dl.acm.org/citation.cfm?id=3323788)
 
 - Anwar, Noor Octavian (2019) Nemu: visual programming environment sebagai penunjang proses pembelajaran mata pelajaran pemrograman dasar di sekolah menengah kejuruan / Noor Octavian Anwar. Diploma thesis, Universitas Negeri Malang. [Link](http://repository.um.ac.id/128977/)
