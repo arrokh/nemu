@@ -1,0 +1,22 @@
+{
+  "name": "nemu",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/arrokh/nemu.git",
+  "author": "Noor Octavian Anwar <alv1n@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "cors": "2.8.5",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "express-favicon": "2.0.1",
+    "express-force-https": "1.0.0",
+    "path": "0.12.7",
+    "postman-request": "2.88.1-postman.15"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev-build": "cd ./nemu-react && yarn build"
+  }
+}
